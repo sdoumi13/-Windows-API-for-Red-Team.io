@@ -1,0 +1,17 @@
+
+Welcome to Windows API for Red Team - Introduction.
+
+
+What you'll learn:
+The structure and internals of Win32 and NT APIs
+How to develop red team tools using C++ and Assembly
+Advanced evasion techniques (unhooking, syscall stubs, NTDLL remapping)
+How to develop and interact with basic Windows kernel drivers
+Real-world offensive use cases with stealth-focused techniques
+Everything will be delivered with practical examples, hands-on code, and references to real-world tools and techniques used by advanced threat actors and security researchers.
+
+Recommended Prerequisites
+Basic knowledge of C or C++
+Windows 10/11 environment with Visual Studio
+Understanding of OS concepts: processes, memory, privileges
+Optional: familiarity with x86/x64 Assembly and Windows Internals
